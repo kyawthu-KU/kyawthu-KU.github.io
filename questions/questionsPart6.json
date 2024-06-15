@@ -1,0 +1,1307 @@
+[
+  {
+    "passage": "The history of computing is often characterized by a series of significant milestones. One such milestone occurred in ____1.____ with the introduction of the Electronic Numerical Integrator and Computer (ENIAC), which is widely considered to be the world's first general-purpose electronic digital computer. ENIAC was developed by ____2.____ at the University of Pennsylvania. It was used primarily for military applications during ____3.____, including calculations for the Manhattan Project. Despite its enormous size and power consumption, ENIAC marked the beginning of the digital computing era and paved the way for future innovations in ____4.____.",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "1942",
+          "1944",
+          "1946",
+          "1948"
+        ],
+        "answer": "1946"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "Alan Turing",
+          "John Presper Eckert and John Mauchly",
+          "Grace Hopper",
+          "Charles Babbage"
+        ],
+        "answer": "John Presper Eckert and John Mauchly"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "World War I",
+          "World War II",
+          "Cold War",
+          "Vietnam War"
+        ],
+        "answer": "World War II"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "computing power",
+          "technological advancements",
+          "scientific research",
+          "information technology"
+        ],
+        "answer": "information technology"
+      }
+    ]
+  },
+  {
+    "passage": "The development of the internet has revolutionized communication and information sharing. One of the key protocols that enabled the growth of the internet is ____1.____ Protocol, which allows devices to communicate over a network. The World Wide Web, introduced in ____2.____ by Tim Berners-Lee, made the internet accessible to the general public. Since then, the internet has become an indispensable tool for ____3.____, education, entertainment, and commerce. However, concerns about ____4.____ and privacy have emerged as significant challenges.",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "Internet",
+          "TCP/IP",
+          "HTTP",
+          "FTP"
+        ],
+        "answer": "TCP/IP"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "1989",
+          "1991",
+          "1993",
+          "1995"
+        ],
+        "answer": "1991"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "communication",
+          "information sharing",
+          "scientific research",
+          "entertainment"
+        ],
+        "answer": "communication"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "security",
+          "speed",
+          "reliability",
+          "accessibility"
+        ],
+        "answer": "security"
+      }
+    ]
+  },
+  {
+    "passage": "Village Brook Hotel and Conference Center: Guest Review\n\nI recently coordinated a conference at Village Brook and had a very positive experience. Though large, the hotel is well laid out and thus easy ____1.____. The hotel staff were all extremely knowledgeable and supportive.  ____2.____. They made my job quite easy.\n\nThe conference center and hotel are connected. Therefore, the facilities were ____3.____ for the attendees who stayed overnight.\n\nThe hotel rooms themselves were a bit small, but they were comfortable and clean. Some attendees with street-facing rooms said traffic could be loud at night. So, if ____4.____ is a concern, request rooms facing the courtyard instead of facing the street.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "to navigate",
+          "navigation",
+          "navigator",
+          "to have navigated"
+        ],
+        "answer": "to navigate"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "Village Brook consistently earns high customer ratings.",
+          "We got a reduced rate on rooms because we booked as a group.",
+          "They even helped me plan a special dinner at a restaurant in town.",
+          "I was expecting the rooms to be larger."
+        ],
+        "answer": "We got a reduced rate on rooms because we booked as a group."
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "convenient",
+          "clean",
+          "spacious",
+          "neat"
+        ],
+        "answer": "convenient"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "choice",
+          "space",
+          "usage",
+          "noise"
+        ],
+        "answer": "noise"
+      }
+    ]
+  },
+  {
+    "passage": "Lakeside Resort: Guest Review\n\nI recently visited Lakeside Resort and had a wonderful time. The resort is beautifully ____1.____, surrounded by nature. The staff were very friendly and attentive, ____2.____ to all our needs.\n\nThe rooms were spacious and offered stunning views of the lake. However, the internet connection was a bit slow in some areas. For those who need reliable internet access, ____3.____ a room close to the lobby.\n\nOverall, it was a relaxing and refreshing stay. I highly recommend this resort to anyone looking to ____4.____ from the hustle and bustle of city life.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "located",
+          "location",
+          "locates",
+          "locating"
+        ],
+        "answer": "located"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "responding promptly",
+          "ignoring us",
+          "having trouble",
+          "demanding tips"
+        ],
+        "answer": "responding promptly"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "request",
+          "rent",
+          "avoid",
+          "book"
+        ],
+        "answer": "request"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "escape",
+          "work",
+          "read",
+          "shop"
+        ],
+        "answer": "escape"
+      }
+    ]
+  },
+  {
+    "passage": "Tech Solutions Inc.: Project Update\n\nThe new software project at Tech Solutions Inc. is progressing smoothly. The development team has successfully ____1.____ the initial phase and is now moving on to the testing stage. The project manager praised the team's ____2.____ efforts and dedication.\n\nOne challenge that was encountered involved integrating the new software with existing systems. To address this, the team decided to ____3.____ additional resources and expertise. The client is very pleased with the progress and is looking forward to the project's completion.\n\nOverall, the project is on track and within budget. Regular updates will be provided to keep all stakeholders ____4.____.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "completed",
+          "completing",
+          "completes",
+          "completion"
+        ],
+        "answer": "completed"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "tireless",
+          "tired",
+          "reluctant",
+          "minimal"
+        ],
+        "answer": "tireless"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "bring in",
+          "send away",
+          "ignore",
+          "eliminate"
+        ],
+        "answer": "bring in"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "informed",
+          "confused",
+          "bored",
+          "indifferent"
+        ],
+        "answer": "informed"
+      }
+    ]
+  },
+  {
+    "passage": "Green Energy Conference: Summary\n\nThe recent Green Energy Conference focused on sustainable practices and innovations in renewable energy. Keynote speakers ____1.____ the importance of reducing carbon emissions and ____2.____ alternative energy sources such as wind and solar power.\n\nWorkshops provided attendees with practical knowledge on implementing green technologies in their businesses. One highlight was a panel discussion on the economic benefits of transitioning to green energy. Participants were encouraged to ____3.____ strategies for reducing their carbon footprint.\n\nThe conference concluded with a call to action, urging everyone to ____4.____ in efforts to combat climate change and promote sustainability.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "highlighted",
+          "ignored",
+          "forgot",
+          "undermined"
+        ],
+        "answer": "highlighted"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "promoting",
+          "denying",
+          "criticizing",
+          "rejecting"
+        ],
+        "answer": "promoting"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "adopt",
+          "avoid",
+          "dismiss",
+          "neglect"
+        ],
+        "answer": "adopt"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "participate",
+          "hinder",
+          "disengage",
+          "oppose"
+        ],
+        "answer": "participate"
+      }
+    ]
+  },
+  {
+    "passage": "Economic Forum: Discussion Highlights\n\nThe recent Economic Forum brought together experts to discuss global market trends and challenges. One key topic was the impact of emerging markets on the global economy. Speakers ____1.____ how these markets are driving growth and ____2.____ new opportunities for investment.\n\nAnother important discussion centered on the role of technology in economic development. Experts shared insights on how digital transformation is ____3.____ businesses to operate more efficiently and reach new customers.\n\nThe forum also addressed the issue of economic inequality, with participants calling for policies that promote inclusive growth. The event concluded with a commitment to ____4.____ collaborative solutions to global economic challenges.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "examined",
+          "ignored",
+          "overlooked",
+          "disregarded"
+        ],
+        "answer": "examined"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "creating",
+          "destroying",
+          "hindering",
+          "limiting"
+        ],
+        "answer": "creating"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "enabling",
+          "preventing",
+          "restricting",
+          "hindering"
+        ],
+        "answer": "enabling"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "develop",
+          "ignore",
+          "reject",
+          "undermine"
+        ],
+        "answer": "develop"
+      }
+    ]
+  },
+  {
+    "passage": "TechWorld Expo: Innovations Unveiled\n\nThe annual TechWorld Expo showcased the latest advancements in technology. Among the highlights were new developments in artificial intelligence and machine learning. Exhibitors ____1.____ cutting-edge products designed to ____2.____ various industries.\n\nAttendees were impressed by demonstrations of AI-powered applications that can streamline business processes and improve decision-making. There was also significant interest in cybersecurity solutions, with experts ____3.____ the importance of protecting data in an increasingly digital world.\n\nThe expo provided a platform for networking and knowledge-sharing, encouraging participants to ____4.____ future technological collaborations.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "unveiled",
+          "concealed",
+          "ignored",
+          "delayed"
+        ],
+        "answer": "unveiled"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "transform",
+          "maintain",
+          "restrict",
+          "limit"
+        ],
+        "answer": "transform"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "emphasizing",
+          "neglecting",
+          "underestimating",
+          "downplaying"
+        ],
+        "answer": "emphasizing"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "explore",
+          "avoid",
+          "dismiss",
+          "ignore"
+        ],
+        "answer": "explore"
+      }
+    ]
+  },
+  {
+    "passage": "Corporate Workshop: Leadership Training\n\nThe recent corporate workshop focused on developing effective leadership skills. Participants ____1.____ techniques for improving team collaboration and ____2.____ workplace productivity.\n\nInteractive sessions allowed attendees to practice conflict resolution and decision-making in a supportive environment. One key takeaway was the importance of ____3.____ communication in leadership roles.\n\nFeedback from participants was overwhelmingly positive, with many expressing a desire to implement what they learned in their organizations. The workshop concluded with a challenge to ____4.____ these leadership strategies in daily practice.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "learned",
+          "ignored",
+          "forgot",
+          "avoided"
+        ],
+        "answer": "learned"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "enhancing",
+          "hindering",
+          "reducing",
+          "limiting"
+        ],
+        "answer": "enhancing"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "effective",
+          "ineffective",
+          "minimal",
+          "rare"
+        ],
+        "answer": "effective"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "apply",
+          "reject",
+          "dismiss",
+          "overlook"
+        ],
+        "answer": "apply"
+      }
+    ]
+  },
+  {
+    "passage": "Urban Planning Symposium: Key Insights\n\nThe Urban Planning Symposium brought together city planners and architects to discuss sustainable urban development. Presenters ____1.____ innovative solutions for managing urban growth and ____2.____ infrastructure resilience.\n\nOne of the main topics was the integration of green spaces in urban areas to improve residents' quality of life. Case studies highlighted successful projects that ____3.____ community engagement and environmental sustainability.\n\nThe symposium emphasized the need for collaborative efforts between public and private sectors to address urban challenges. Participants left with a renewed commitment to ____4.____ sustainable urban planning practices.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "shared",
+          "ignored",
+          "overlooked",
+          "delayed"
+        ],
+        "answer": "shared"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "enhancing",
+          "weakening",
+          "destroying",
+          "hindering"
+        ],
+        "answer": "enhancing"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "promoted",
+          "neglected",
+          "reduced",
+          "ignored"
+        ],
+        "answer": "promoted"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "pursue",
+          "abandon",
+          "oppose",
+          "undermine"
+        ],
+        "answer": "pursue"
+      }
+    ]
+  },
+  {
+    "passage": "Financial Strategies Conference: Highlights\n\nThe Financial Strategies Conference offered insights into effective investment and risk management. Experts ____1.____ various approaches to portfolio diversification and ____2.____ emerging financial trends.\n\nA significant portion of the conference focused on the impact of global events on financial markets. Attendees were advised to ____3.____ geopolitical developments when making investment decisions. There was also a session dedicated to ethical investing and its long-term benefits.\n\nParticipants left with practical strategies to improve their financial planning. The conference reinforced the importance of staying ____4.____ in an ever-changing financial landscape.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "discussed",
+          "ignored",
+          "rejected",
+          "forgot"
+        ],
+        "answer": "discussed"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "analyzing",
+          "ignoring",
+          "underestimating",
+          "rejecting"
+        ],
+        "answer": "analyzing"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "consider",
+          "disregard",
+          "oppose",
+          "avoid"
+        ],
+        "answer": "consider"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "informed",
+          "unaware",
+          "indifferent",
+          "confused"
+        ],
+        "answer": "informed"
+      }
+    ]
+  },
+  {
+    "passage": "Tech Innovators Meetup: Summary\n\nThe Tech Innovators Meetup was an exciting event for entrepreneurs and developers. Attendees ____1.____ the latest tech trends and ____2.____ innovative products.\n\nOne of the highlights was a series of pitches from startups seeking funding for their projects. Investors were impressed by the creativity and potential of these new ventures. There were also workshops on topics such as blockchain technology and artificial intelligence, providing valuable ____3.____ for participants.\n\nNetworking sessions facilitated connections between innovators and industry leaders. The event concluded with a call to ____4.____ the spirit of innovation and collaboration.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "explored",
+          "ignored",
+          "avoided",
+          "delayed"
+        ],
+        "answer": "explored"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "showcased",
+          "concealed",
+          "ignored",
+          "withheld"
+        ],
+        "answer": "showcased"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "insights",
+          "ignorance",
+          "disinterest",
+          "confusion"
+        ],
+        "answer": "insights"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "embrace",
+          "reject",
+          "oppose",
+          "dismiss"
+        ],
+        "answer": "embrace"
+      }
+    ]
+  },
+  {
+    "passage": "Environmental Summit: Key Takeaways\n\nThe Environmental Summit focused on addressing climate change and promoting sustainable practices. Experts ____1.____ the urgency of reducing greenhouse gas emissions and ____2.____ renewable energy solutions.\n\nParticipants discussed the role of policy in driving environmental change and shared successful case studies from around the world. Workshops provided practical advice on how businesses and individuals can ____3.____ their environmental impact.\n\nThe summit concluded with a strong message of hope and a call to action, encouraging everyone to ____4.____ towards a more sustainable future.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "emphasized",
+          "ignored",
+          "denied",
+          "underplayed"
+        ],
+        "answer": "emphasized"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "advocating",
+          "rejecting",
+          "criticizing",
+          "avoiding"
+        ],
+        "answer": "advocating"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "reduce",
+          "increase",
+          "neglect",
+          "overlook"
+        ],
+        "answer": "reduce"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "work",
+          "oppose",
+          "hesitate",
+          "withdraw"
+        ],
+        "answer": "work"
+      }
+    ]
+  },
+  {
+    "passage": "Construction of Research Facility to Begin\n\n KANSAS CITY (February 10): - Next month, construction will begin on a new research facility on Glenmore University's campus. The project ____1.____ in collaboration with Lansing Pharmaceuticals. The facility will be a cutting-edge research center featuring state-of-the-art equipment. ____2.____, it will offer expanded opportunities for faculty and students in the university's world-renowned biomedical engineering programs.\n\nGlenmore Univeristy has long been an important part of Kansas City's ____3.____. Once finished, the new research facility will bring hundreds of additional jons to the community. ____4.____.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "to finance",
+          "will finance",
+          "is being financed",
+          "to be financed"
+        ],
+        "answer": "is being financed"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "Additionally",
+          "Although",
+          "For instance",
+          "As long as"
+        ],
+        "answer": "Additionally"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "protocol",
+          "economy",
+          "routine",
+          "training"
+        ],
+        "answer": "economy"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "Cooperation between universities and corporations has increased.",
+          "Glenmore University offers 105 graduate programs.",
+          "Lansing Pharmaceutals was founded in 1956.",
+          "The project is expected to be completed in three years."
+        ],
+        "answer": "The project is expected to be completed in three years."
+      }
+    ]
+  },
+  {
+    "passage": "Employee Spring Training\n\nLawrence Paper is dedicated to helping all of its employees fulfill their potential. That is why we have once again organized 2 days of spring training. Human Resources has put together a wide range of topics for this year’s workshops, ____1.____ sales techniques, computer skills, communication strategies, and goal setting.\n\n We still have two workshop time slots available, so if there is something you’ve been dying to learn about, please let us know. It’s quite possible we ____2.____ it into this year’s spring training. ____3.____ Feel free to ____4.____ any ideas you might have to Nancy Kensington in the human resources department.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "distributing",
+          "locating",
+          "including",
+          "advancing"
+        ],
+        "answer": "including"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "were incorporating",
+          "should incorporate",
+          "are incorporating",
+          "could incorporate"
+        ],
+        "answer": "could incorporate"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "If we get many suggestions, we could also hold a workshop on the following weekend, December 4th.",
+          "We’ll be finalizing our choices by the end of the week.",
+          "A large amount of time and energy has gone into organizing this conference.",
+          "Inviting friends and family to these events is always encouraged."
+        ],
+        "answer": "We’ll be finalizing our choices by the end of the week."
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "create",
+          "request",
+          "submit",
+          "transfer"
+        ],
+        "answer": "submit"
+      }
+    ]
+  },
+  {
+    "passage": "Vander Properties\n\n Vander Properties has been serving Houston for over 29 years. It is through our commitment to providing the highest degree of expertise market knowledge and ____1.____ service that we are recognized as an industry leader.\n\n We specialize in ____2.____ and corporate real estate here in the Denver area. ____3.____ you are looking to buy a new home or start a new business, we are the people you should be talking with.\n\n With our office centrally located downtown, we have our eyes on the whole city. Browse our site for listing, or give us a call today ____4.____.\n www.vanderproperties.com\n Phone: (313) 782-9919\n Address: 834 Walton St.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "personalize",
+          "personalizes",
+          "personalizing",
+          "personalized"
+        ],
+        "answer": "personalized"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "productive",
+          "promoted",
+          "residential",
+          "relevant"
+        ],
+        "answer": "residential"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "Whether",
+          "Even if",
+          "Even though",
+          "Whenever"
+        ],
+        "answer": "Whether"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "Take a drive out of town and come see us today.",
+          "We appreciate your assistance.",
+          "Of course, drop-ins are always welcome.",
+          "Our kitchen is open from eight to five daily."
+        ],
+        "answer": "Of course, drop-ins are always welcome."
+      }
+    ]
+  },
+  {
+    "passage": "Pizza Chef Wanted\n\n Papa Gino’s is hiring, and all ____1.____ applicants will be considered. ____2.____\n\n Even if you have no experience, training will be provided if you meet our requirements. To meet our requirements, you must have a ____3.____ health card, reliable transportation, and be able to work evenings and weekends.\n\n Please apply in person at Papa Gino’s on state and Pine, ____4.____ look forward to meeting you.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "qualify",
+          "qualifying",
+          "qualified",
+          "to qualify"
+        ],
+        "answer": "qualified"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "We are looking for candidates that have some experience in Italian food.",
+          "We are looking for candidates that have experience fishing.",
+          "We are looking for people who can fish.",
+          "We are looking for people who want to practice."
+        ],
+        "answer": "We are looking for candidates that have some experience in Italian food."
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "valid",
+          "working",
+          "effective",
+          "strong"
+        ],
+        "answer": "valid"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "She",
+          "They",
+          "We",
+          "transfer"
+        ],
+        "answer": "We"
+      }
+    ]
+  },
+  {
+    "passage": "November 11\n John Adams\n Tri-State, Apt 408\n New York, NY\n 10873\n\n Dear Mr. Adams,\n I am pleased to inform you that you ____1.____ as one of the finalists for the position of sales director at Goldie Saks. Over 100 applicants applied for the ____2.____ but we have narrowed down our list to 8 candidates. You will be called in for an interview on November 15 from 1:00 P.M. to 6:00 P.M. ____3.____ The location will be the company headquarters. Our assistant, Miss Lane, will meet you at the main lobby and take you to the interview room.\n\n For the candidates that do well in these interviews, there will be a second interview. We will let you know as soon as possible whether you ____4.____.\n\n Please call US at 555-1234 if you have any further questions.\n\n We hope to see you soon.\n Sincerely,\n Jennifer Law Executive Manager\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "were choosing",
+          "had chosen",
+          "have been chosen",
+          "chose"
+        ],
+        "answer": "have been chosen"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "position",
+          "location",
+          "career",
+          "appointment"
+        ],
+        "answer": "position"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "The building is easy to locate.",
+          "We would like you to come in at 1:00 P.M.",
+          "Our interviewers will ask you several questions.",
+          "You will be given a specific schedule."
+        ],
+        "answer": "We would like you to come in at 1:00 P.M."
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "enable",
+          "approve",
+          "qualify",
+          "refuse"
+        ],
+        "answer": "qualify"
+      }
+    ]
+  },
+  {
+    "passage": "To: samsmith@digitallT.com\n From: sharronb@email.com\n Date: September 24\n Subject: Business Contract\n\n Dear Mr. Smith,\n I am Sharron Biggs, CEO and founder of BiggsGraphics. I recently came across your advertisement ____1.____ partnership of a graphic design company for a number of your projects.\n\n BiggsGraphics has ____2.____ experience working with various small businesses and companies in designing advertising campaigns, logos, and websites. ____3.____ Our website www.biggs-graphics.com also has some information about our company.\n\n I’m interested in working with your company on your projects and hope we can build a beneficial partnership. I look forward ____4.____ your reply.\n\n Sincerely, Sharron Biggs\n CEO, BiggsGraphics\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "seek",
+          "to seek",
+          "seeking",
+          "are seeking"
+        ],
+        "answer": "seeking"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "extensive",
+          "restricted",
+          "generous",
+          "limitless"
+        ],
+        "answer": "extensive"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "I would really appreciate the opportunity to work with you.",
+          "I heard that Digital lT is a great company.",
+          "In fact, our designs are often copied by other companies.",
+          "I have attached a number of our past designs to illustrate what we specialize in."
+        ],
+        "answer": "I have attached a number of our past designs to illustrate what we specialize in."
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "at",
+          "to",
+          "width",
+          "from"
+        ],
+        "answer": "to"
+      }
+    ]
+  },
+  {
+    "passage": "Thank you for shopping at Larson’s China.\n\n Our products are known for their modern and unique patterns and color combinations, as well as ____1.____ and strength. ____2.____ Please note, however, that repeated drops and rough handling will ____3.____ eventual breakage.\n\n We suggest you store them carefully and that you don’t use harsh chemicals, steel sponges, or ____4.____ scrubbing when cleaning them.\n\n Please visit our website at www.larsonchina.com for information about handling and care or call us at 555-1234 if you have any questions or concerns.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "durably",
+          "durability",
+          "durabled",
+          "durable"
+        ],
+        "answer": "durability"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "Larson’s utensils and silverware go great with the dinnerware.",
+          "Our most popular line, the Spring Flower China is sold out at most locations.",
+          "Visit our store to check out our other beautiful products.",
+          "They are dishwasher- and microwave-safe and we’re confident that you’ll be using them for years to come."
+        ],
+        "answer": "They are dishwasher- and microwave-safe and we’re confident that you’ll be using them for years to come."
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "result in",
+          "occur to",
+          "ending at",
+          "stop with"
+        ],
+        "answer": "result in"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "ambitious",
+          "combative",
+          "aggressive",
+          "complacent"
+        ],
+        "answer": "aggressive"
+      }
+    ]
+  },
+  {
+    "passage": "To:Kitchen staff,office employees\n From:Manager, LarryPark\n Date:March 23\n Subject: Renovations\n\n To all kitchen staff and Harmon employees,\n From Sunday, March 23 to Thursday, March 27, the employee cafeteria kitchens will undergo renovations as new appliances and equipment ____1.____ in to replace the old ones. ____2.____ Instead, the convenience shops will carry more sandwiches, prepared lunch boxes,and snacks for the employees during this time.\n\n The renovations will increase the number of sinks, ovens, and stove tops so that a larger volume of meals can be provided ____3.____ the lunch and dinner rushes. We apologize for the inconvenience but we hope that the changes will ____4.____ the services in the cafeteria.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "are bringing",
+          "have brought",
+          "bring",
+          "are brought"
+        ],
+        "answer": "are brought"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "This will take a lot of work.",
+          "As a result, the convenience shops will be closed.",
+          "Because of this, hot meals will not be available for the patrons.",
+          "There will be noise and chaos as a result."
+        ],
+        "answer": "Because of this, hot meals will not be available for the patrons."
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "before",
+          "after",
+          "during",
+          "within"
+        ],
+        "answer": "during"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "develop",
+          "improve",
+          "rectify",
+          "recover"
+        ],
+        "answer": "improve"
+      }
+    ]
+  },
+  {
+    "passage": "Entry Position: Gold & Slide Accounting Firm\n\n We are looking for enthusiastic candidates with an educational background in finance or ____1.____. All candidates should have some computer experience.\n\n Job experience is not ____2.____ but preferred. Candidates with a bilingual language ability ____3.____ favored. Positions include jobs in accounting, statistics, and general office assistant.\n\n If you are interested, please visit our website at www.G&Saccountingfirm.com/employment for more information.\n\n You can send your cover letters and resumes to Karen Hill at khill@G&S.com. We will begin interviewing candidates on Monday, November 5. ____4.____\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "account",
+          "accountant",
+          "accounting",
+          "accounted"
+        ],
+        "answer": "accounting"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "basic",
+          "decisive",
+          "necessary",
+          "additional"
+        ],
+        "answer": "necessary"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "is being",
+          "will be",
+          "has been",
+          "were being"
+        ],
+        "answer": "will be"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "We sincerely thank you for your interest.",
+          "The positions begin the following month.",
+          "Please call us for more information.",
+          "We apologize for any inconvenience."
+        ],
+        "answer": "The positions begin the following month."
+      }
+    ]
+  },
+  {
+    "passage": "June 3, 2016\n Yui Minakuchi\n 143 Dean St. Apt. 3\n Brooklyn, NY 10787\n\n Dear Ms. Minakuchi,\n It is my pleasure to inform you that Hannover Design would like ____1.____ you to interview for our summer intern program. We are only interviewing fifteen candidates this year for the six positions we have available. You will be pleased to know that you were selected out of a group of over 200 people ____2.____ applied for an interview.\n\n We will be holding interviews on March 6 and 7 from 1:00 to 6:00 P.M. We would like you to come on the 6th at 1:30 P.M. if you are able to. If not, we can ____3.____ for you to come on the 7th. ____4.____ If you have any questions, feel free to call our office (212-347-9919) and the human resources department will be able to assist you. We look forward to hearing from you soon.\n\n Sincerely,\n Max Wright\n Office Manager\n Hannover Design\n 212-326-1268\n M.Wright@hannoverdesign.com\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "to invite",
+          "will invite",
+          "has invited",
+          "will be inviting"
+        ],
+        "answer": "to invite"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "whom",
+          "that",
+          "whose",
+          "which"
+        ],
+        "answer": "that"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "order",
+          "arrange",
+          "oblige",
+          "attend"
+        ],
+        "answer": "arrange"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "You will need to bring a completed application and some type of identification card.",
+          "Please let us know as soon as possible if you will be able to attend.",
+          "We wish we were able to accept your offer, but we must decline it.",
+          "Please RSVP and indicate if you plan on bringing a guest."
+        ],
+        "answer": "Please let us know as soon as possible if you will be able to attend."
+      }
+    ]
+  },
+  {
+    "passage": "Urgent! Journeyman Plumber Needed\n\n Ace Plumbing is looking for an experienced plumber to join our ____1.____ business here in Columbia. ____2.____ We have always been a family-owned-and-run business, but with the ____3.____ increase in Columbia’s population over the last three years, we have an opportunity to welcome in a new journeyman plumber.\n\n The candidate should have experience with all ____4.____ of plumbing, both commercial and residential. Please send your resume to aceplumbing@gmail.com and we will schedule an interview.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "expecting",
+          "expanding",
+          "contracting",
+          "controlling"
+        ],
+        "answer": "expanding"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "Ace Plumbing has been servicing the Columbia area since 1954.",
+          "We have little connection to the community.",
+          "We have been struggling to pay our bills.",
+          "Ace Plumbing is in financial trouble."
+        ],
+        "answer": "Ace Plumbing has been servicing the Columbia area since 1954."
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "monstrous",
+          "dramatic",
+          "impossible",
+          "insane"
+        ],
+        "answer": "dramatic"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "pieces",
+          "flows",
+          "types",
+          "installations"
+        ],
+        "answer": "types"
+      }
+    ]
+  },
+  {
+    "passage": "Learn social media marketing tactics only at Genius Marketing’s Power Conference\n\n Are you ready to take your social media marketing to the next level? Then ____1.____ Genius Marketing’s Power Conference and learn cutting-edge social media marketing tactics. ____2.____ This could be the most educational two days of your year.\n\n Genius Marketing will give you real-world tactics to boost your paid and organic social media marketing efforts. ____3.____ you buy social media advertising or focus on organic social media engagement, Genius Marketing’s Power Conference is the conference you need to attend this year. You’ll be inspired by experts, meet others with your challenges, and get actionable tactics to drive traffic, increase sales and ____4.____ customer satisfaction.\n\n To apply, just click the link below.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "attend",
+          "attends",
+          "attended",
+          "attending"
+        ],
+        "answer": "attend"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "Guide people in the industry to greatness by joining today.",
+          "The conference will be in Houston on May 3 and 4.",
+          "Registration for this two-week course will be on November 20.",
+          "Classes will be held throughout the month of March."
+        ],
+        "answer": "The conference will be in Houston on May 3 and 4."
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "Either",
+          "Whether",
+          "Rather",
+          "Not only"
+        ],
+        "answer": "Whether"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "divide",
+          "engage",
+          "devalue",
+          "endure"
+        ],
+        "answer": "engage"
+      }
+    ]
+  },
+  {
+    "passage": "To: Nancy Craft\n From: Kumar Patel\n Date:January 16\n Subject: Pre-shipping Procedures\n\n At the manufacturing team meeting, ____1.____ was raised that inventory wasn’t always being properly stored before being shipped. ____2.____ that concern, the team decided to review the written procedure to determine if additional steps should be added. ____3.____ Please try to arrange the schedules of the team in the packaging and storage wing so a majority of the managers can attend this meeting.\n\n I am confident that the packaging and storage team management ____4.____ that the written procedure leaves no room for any inventory to accidentally be improperly stored. Any suggestions made by the packaging and storage team will only enhance a superior checklist.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "patience",
+          "understanding",
+          "challenges",
+          "concern"
+        ],
+        "answer": "concern"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "So",
+          "Regardless of",
+          "Due to",
+          "Provided"
+        ],
+        "answer": "Due to"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "A meeting of the packaging and storage team has been set for Tuesday, January 23.",
+          "All employees should be asked to review the procedure before starting work on Tuesday.",
+          "The meeting will investigate the possibility of redundancies in the packaging process.",
+          "Additional training sessions plan to be added sometime at the end of December."
+        ],
+        "answer": "A meeting of the packaging and storage team has been set for Tuesday, January 23."
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "is discovering",
+          "have been discovered",
+          "will discover",
+          "has discovered"
+        ],
+        "answer": "will discover"
+      }
+    ]
+  },
+  {
+    "passage": "To:Janet Doe\n From:Greenscape\n Date:June 28\n Subject:Inquiry\n\n Ms. Doe,\n We thank you for your inquiry. Greenscape has been the leading landscaper for businesses in the greater downtown area for over 10 years. ____1.____ we specialize in gardens and Japanese-style landscape art, we also maintain lawns and fields. But to answer your question, yes, we even clear away thick shrubbery and trees.\n\n We can send a person to ____2.____ the amount of time it will take and the approximate costs. Furthermore, if you ____3.____ to replace the dense shrubs with a lawn or garden, you can work with one of our designers to come up with a landscape you can be happy with. ____4.____ We are more than happy to serve you.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "Although",
+          "Because",
+          "However",
+          "Therefore"
+        ],
+        "answer": "Although"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "conclude",
+          "calculate",
+          "estimate",
+          "guess"
+        ],
+        "answer": "estimate"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "wishing",
+          "wish",
+          "wished",
+          "wishes"
+        ],
+        "answer": "wish"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "Please call US at 555-1245 if you are interested in a consultation.",
+          "Visit our website for more information.",
+          "Please don’t hesitate to email any questions you have.",
+          "We welcome any business opportunity with you."
+        ],
+        "answer": "will discover"
+      }
+    ]
+  },
+  {
+    "passage": "Black Hill Beans\n\n Black Hill Beans is a Louisianan coffee company and the pioneer of the Louisiana coffee fruit. We oversee a vertically ____1.____ supply chain that starts with the highest quality coffee and coffee fruit from Black Hill, Louisiana. We ____2.____ three award-winning beans, Summer Harvest, Dark Southern, and Black Earth. All can be shipped to you ____3.____ 24 hours anywhere in the continental U.S. Black Hill Beans' coffee is also sold at every Launders Superstore in the U.S.\n\n Whether you're looking for excellent coffee or a bit of southern comfort, Black Hill Beans is the right choice for your coffee. ____4.____ It's nice to feel patriotic while you drink. Visit us online today to hear more about our story.\n\n www.blackhillbeans.com\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "integrates",
+          "to integrate",
+          "integrated",
+          "integration"
+        ],
+        "answer": "integrated"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "locate",
+          "select",
+          "evaluate",
+          "produce"
+        ],
+        "answer": "produce"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "within",
+          "by",
+          "until",
+          "at"
+        ],
+        "answer": "within"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "Try the best-selling frozen beverage around.",
+          "It’s American-made and organic.",
+          "Let us help you find the right supplier.",
+          "This discount is only available through October 1."
+        ],
+        "answer": "It’s American-made and organic."
+      }
+    ]
+  },
+  {
+    "passage": "Employee Workshop\n\n T&R Group strives to help employees reach their potential by offering leadership retreats, employee training, and various workshops. This month, we ____1.____ workshops for those interested in ____2.____ their computer skills with several classes on how to use Professional Office, create a personal website, and run the message app.\n\n We have a couple of other slots that are currently ____3.____ and will accept suggestions from employees. ____4.____ Please email Jonas at jsmith@TRgroup.com if you are interested in attending any of the workshops.\n\n We hope you take advantage of the programs offered.\n",
+    "questions": [
+      {
+        "question": "1.",
+        "choices": [
+          "offers",
+          "were offering",
+          "are offering",
+          "have offered"
+        ],
+        "answer": "are offering"
+      },
+      {
+        "question": "2.",
+        "choices": [
+          "correcting",
+          "diminishing",
+          "improving",
+          "elaborating"
+        ],
+        "answer": "improving"
+      },
+      {
+        "question": "3.",
+        "choices": [
+          "dependent",
+          "independent",
+          "free",
+          "obtainable"
+        ],
+        "answer": "free"
+      },
+      {
+        "question": "4.",
+        "choices": [
+          "Suggestions related to gaming and entertainment will not be accepted.",
+          "We hope the workshop is a success and wish you the very best.",
+          "We ask all managers to make a suggestion.",
+          "The most popular requests will be considered for the workshops."
+        ],
+        "answer": "The most popular requests will be considered for the workshops."
+      }
+    ]
+  }
+]

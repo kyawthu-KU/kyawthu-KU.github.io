@@ -20,14 +20,17 @@ body {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   text-align: center;
   padding: 20px;
+  height: 250px; /* Fixed height for uniformity */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .box img {
   max-width: 100%;
-  height: auto;
+  height: 100px; /* Fixed height for images */
+  object-fit: cover; /* Ensures image covers the fixed height */
   border-bottom: 1px solid #ddd;
-  padding-bottom: 10px;
-  margin-bottom: 10px;
 }
 
 .box h3 {
@@ -36,6 +39,7 @@ body {
 
 .box p {
   color: #666;
+  flex-grow: 1; /* Ensures the paragraph takes available space */
 }
 
 .box a {

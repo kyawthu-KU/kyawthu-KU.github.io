@@ -1,116 +1,64 @@
-/* General styles */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
-    margin: 0 auto;
-    padding: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; /* Center content horizontally */
-    position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-bottom: 2px solid #ccc;
 }
 
-/* One column on the top */
-.column-1-top {
-    width: 100%;
-    border: 2px solid #333;
-    padding: 20px;
-    box-sizing: border-box;
-    margin-bottom: 20px;
-    position: relative; /* Ensure relative positioning for child elements */
-    background-color: aquamarine;
+.box {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 20px;
 }
 
-.top-image {
-    position: absolute; /* Position the image relative to its closest positioned ancestor */
-    top: 70px; /* Adjust the top position */
-    right: 20px; /* Adjust the left position */
-    width: 150px;
-    height: auto;
-    transform: translateY(-50%); /* Center vertically */
+.box img {
+  max-width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
-/* Timer box style */
-.timer-float {
-    position: relative;
-    z-index: 9999; /* Ensure it appears on top of other content */
-    width: 100%;
-    border: 2px solid #999;
-    padding: 20px;
-    box-sizing: border-box;
-    margin-bottom: 20px;
-    background-color: #f0f0f0;
+.box h3 {
+  margin: 10px 0;
 }
 
-
-/* Two columns in the middle */
-.quiz-column {
-    flex: 1; /* Let the column grow to fill available space */
-    max-width: calc(50% - 10px); /* Set maximum width to 50% minus margin */
-    border: 2px solid #666;
-    padding: 20px;
-    box-sizing: border-box;
-    margin-right: 20px;
-    margin-bottom: 20px; /* Add margin bottom to create space between rows */
-    background-color: #f0f0f0;
+.box p {
+  color: #666;
 }
 
-.answers-column {
-    flex: 1; /* Let the column grow to fill available space */
-    max-width: calc(50% - 10px); /* Set maximum width to 50% minus margin */
-    border: 2px solid #999;
-    padding: 20px;
-    box-sizing: border-box;
-    margin-bottom: 20px; /* Add margin bottom to create space between rows */
+.box a {
+  text-decoration: none;
+  color: #333;
+  display: block;
 }
 
-/* Separate box for the Submit button */
-.submit-button-container {
-    width: 100%;
-    border: 2px solid #CCC;
-    box-sizing: border-box;
-    padding: 20px;
+.box:hover {
+  background-color: #f0f0f0;
 }
 
-/* Style for the Submit button */
-.submit-button {
-    background-color: red;
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    color: white;
-    cursor: pointer;
+.content-section {
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
 }
 
-
-.quiz-column,
-.answers-column,
-.submit-button-container {
-    display: none;
+.content-section h2 {
+  margin-top: 0;
 }
 
-/* Responsive layout */
-@media only screen and (max-width: 768px) {
-    .container {
-        flex-direction: column;
-        align-items: center; /* Center content vertically */
-    }
-
-    .quiz-column,
-    .answers-column {
-        flex-basis: calc(100% - 40px); /* Set flex basis to 100% minus total horizontal padding */
-        margin-right: 0;
-    }
-
-    .quiz-column {
-        margin-bottom: 20px; /* Add margin bottom to create space between rows */
-    }
-
-    .answers-column {
-        margin-bottom: 0; /* No margin bottom for the last column */
-    }
+@media (max-width: 768px) {
+  .container {
+      grid-template-columns: 1fr;
+  }
 }

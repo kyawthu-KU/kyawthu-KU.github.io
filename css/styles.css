@@ -24,23 +24,26 @@ body {
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
+  height: 100%; /* Ensures all boxes are of equal height */
 }
 
 .flex-container {
   display: flex;
   flex-direction: row;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .flex-container img {
-  width: 150px; /* Fixed width for the image */
-  height: auto; /* Maintain aspect ratio */
-  margin-right: 20px; /* Space between image and text */
+  width: 150px;
+  height: auto;
+  margin-right: 20px;
+  flex-shrink: 0; /* Prevents image from shrinking */
 }
 
 .text-content {
   flex-grow: 1;
-  min-width: 0; /* Allows text to shrink properly */
+  min-width: 0;
 }
 
 .box h3 {
@@ -49,7 +52,7 @@ body {
 
 .box p {
   color: #666;
-  word-wrap: break-word; /* Prevents text overflow */
+  word-wrap: break-word;
 }
 
 .box a {
@@ -75,15 +78,15 @@ body {
   .container {
     grid-template-columns: 1fr;
   }
-  
+
   .flex-container {
-    flex-direction: column; /* Stack image and text vertically on small screens */
+    flex-direction: column;
     align-items: flex-start;
   }
 
   .flex-container img {
-    margin: 0 0 10px 0; /* Adjust margin for vertical layout */
-    width: 100%; /* Image takes full width */
-    max-width: none; /* Remove max-width */
+    margin: 0 0 10px 0;
+    width: 100%;
+    max-width: none;
   }
 }
